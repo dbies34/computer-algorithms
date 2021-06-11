@@ -1,0 +1,3 @@
+/home/abies2/documents/hw1-dbies34/CMakeFiles/rebuild_cache.dir
+/home/abies2/documents/hw1-dbies34/CMakeFiles/hw1_tests.dir
+/home/abies2/documents/hw1-dbies34/CMakeFiles/edit_cache.dir
